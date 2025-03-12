@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647957832a3064567abbe3e69c865aff, type: 3}
+  m_Name: Demons Brand
+  m_EditorClassIdentifier: 
+  ItemType: 5
+  Quality: 1
+  Pool: 0
+  Name: Demon Brand
+  Description: Fire rate and damage up, HP down.
+  Announcement: 
+  CardSprite: {fileID: -402934912, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
+  CardSpriteSize: {x: 93.7171, y: 103}
+  StatModifiers:
+  - Stat: 2
+    MultiplyMode: 0
+    Value: 0.7
+  - Stat: 1
+    MultiplyMode: 0
+    Value: 0.3
+  HealthModifier: -1
+  Projectile: 0
+  Modifiers: 
+  OrbitalPrefab: {fileID: 0}
+  FamiliarPrefab: {fileID: 0}

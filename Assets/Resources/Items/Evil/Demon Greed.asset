@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647957832a3064567abbe3e69c865aff, type: 3}
+  m_Name: Demon Greed
+  m_EditorClassIdentifier: 
+  ItemType: 4
+  Quality: 0
+  Pool: 0
+  Name: Demon Greed
+  Description: 2 luck up but you lose a bead every hit.
+  Announcement: 
+  CardSprite: {fileID: -1360910336, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
+  CardSpriteSize: {x: 89.7623, y: 89.7623}
+  StatModifiers:
+  - Stat: 5
+    MultiplyMode: 0
+    Value: 2
+  HealthModifier: 0
+  OrbitalPrefab: {fileID: 0}
+  FamiliarPrefab: {fileID: 0}

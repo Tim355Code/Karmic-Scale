@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TopDoor
+  - BottomDoor
+  - LeftDoor
+  - RightDoor
+  - Ouch
+  - Bead
+  - TopWall
+  - LeftWall
+  - RightWall
+  - BottomWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - PlayerHitbox
+  - Projectile
+  - IgnoreProjectile
+  - Door
+  - Enemy
+  - FlyingEnemy
+  - Bullet
+  - Walls
+  - FeetHitbox
+  - Orbital
+  - Consumable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2992761127
+    locked: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd6d96a00bb8f44179db8a0d05158dff, type: 3}
+  m_Name: EvilIntro
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: Marisa?
+    Text: "Heh\u2026 Took you long enough, Reimu. But ya ain't here to save me, are
+      ya?"
+  - Name: Reimu?
+    Text: "Save you? No, I just want what\u2019s mine."
+  - Name: Marisa?
+    Text: "Hah! You\u2019re just like me now. Ain\u2019t it great? No gods, no balance,
+      just power."
+  - Name: Reimu?
+    Text: "Power\u2019s all that matters in this place. If you won\u2019t kneel,
+      you\u2019ll burn."

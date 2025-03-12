@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647957832a3064567abbe3e69c865aff, type: 3}
+  m_Name: Flandre Fumo
+  m_EditorClassIdentifier: 
+  ItemType: 14
+  Quality: 2
+  Pool: 0
+  Name: Flandre Fumo
+  Description: Chaotic plushie which deals big damage when it touches an enemy.
+  Announcement: '"Kyuu~! Hahaha!"'
+  CardSprite: {fileID: -1990977170, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
+  CardSpriteSize: {x: 115.6, y: 134.7915}
+  StatModifiers: []
+  HealthModifier: 0
+  Projectile: 0
+  Modifiers: 
+  OrbitalPrefab: {fileID: 4121728314087990343, guid: fc3d77b0dc5004c53b07f52f88af4fd0, type: 3}
+  FamiliarPrefab: {fileID: 0}

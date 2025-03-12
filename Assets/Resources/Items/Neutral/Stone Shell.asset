@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647957832a3064567abbe3e69c865aff, type: 3}
+  m_Name: Stone Shell
+  m_EditorClassIdentifier: 
+  ItemType: 26
+  Quality: 0
+  Pool: 2
+  Name: Stone Shell
+  Description: HP up but speed down.
+  Announcement: 
+  CardSprite: {fileID: -1947815791, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
+  CardSpriteSize: {x: 104.9675, y: 66.9}
+  StatModifiers:
+  - Stat: 0
+    MultiplyMode: 0
+    Value: -0.7
+  HealthModifier: 1
+  Projectile: 0
+  Modifiers: 
+  OrbitalPrefab: {fileID: 0}
+  FamiliarPrefab: {fileID: 0}
