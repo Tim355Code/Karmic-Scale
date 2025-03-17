@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6134115944898864832}
   - component: {fileID: 6559385140210169850}
+  - component: {fileID: 7173985749536947453}
   m_Layer: 0
   m_Name: remilia
   m_TagString: Untagged
@@ -84,3 +85,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &7173985749536947453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5901695806862628388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b83490519d246958151f602529ccf2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Offset: 0.1

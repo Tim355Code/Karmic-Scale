@@ -5182,7 +5182,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 357a326071a0f41ab93ec67c92a24da2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartHealth: 90
+  StartHealth: 70
   DeathSFX: 15
   HurtSFX: 5
   HitParticles: {fileID: 1838743004656762456, guid: 59c49aeb63cd64ed09b4a85de45fbbb0, type: 3}
@@ -5198,7 +5198,7 @@ MonoBehaviour:
   VerticalAmplitude: 3
   WaveT: 1
   MaxX: 7
-  EnemySpawnRate: 3.3
+  EnemySpawnRate: 3
   EnemyCap: 4
   EnemyPrefab: {fileID: 5877881968420663502, guid: a171b3395332d4990ba8cd89419c582b, type: 3}
   BulletPrefab: {fileID: 5418865320086001281, guid: 7c4908af65a894de2a89e49ab0b81257, type: 3}

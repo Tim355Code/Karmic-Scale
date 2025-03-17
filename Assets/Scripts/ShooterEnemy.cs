@@ -37,7 +37,7 @@ public class ShooterEnemy : Enemy
     protected override void Start()
     {
         if (GameManager.Instance.Evil > 0)
-            FireRate -= 0.13f * GameManager.Instance.Evil;
+            FireRate -= 0.11f * GameManager.Instance.Evil;
 
         FirstCycle = true;
         _rb2d = GetComponent<Rigidbody2D>();

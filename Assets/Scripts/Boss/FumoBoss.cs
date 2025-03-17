@@ -235,7 +235,7 @@ public class FumoBoss : Enemy
     {
         for (int i = 0; i < Attack6RepeatCount; i++)
         {
-            var bullet = Instantiate(BulletPrefabs[6], transform.position, Quaternion.identity);
+            var bullet = Instantiate(BulletPrefabs[3], transform.position, Quaternion.identity);
             bullet.Speed = Attack6Speed.x + (Attack6Speed.y - Attack6Speed.x) * (i / (float)(Attack6RepeatCount - 1));
             bullet.GetComponent<Bullet>().OnSpawn(VectorExtensions.Vec2ToAngle((Vector2)PlayerMovement.Instance.transform.position - (Vector2)transform.position));
 

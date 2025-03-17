@@ -455,8 +455,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -713,8 +713,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Flip Y Input
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1064,7 +1064,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Normal
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1128,7 +1128,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &208832644
@@ -1509,7 +1509,7 @@ MonoBehaviour:
   m_text: swipes and whooshes boompole low slow and long swings stereo ORTF 8040.wav
     by Soundholder
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1573,7 +1573,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &332646169
@@ -1801,7 +1801,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Back
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1865,7 +1865,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &392220051
@@ -1935,7 +1935,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Dropping, Wood, N.wav by InspectorJ
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1999,7 +1999,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &423504551
@@ -2069,7 +2069,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Szegvari - Red Temple
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2133,7 +2133,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &434292793
@@ -2203,7 +2203,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Music used
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2267,7 +2267,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &451322632
@@ -2551,7 +2551,7 @@ MonoBehaviour:
     to tip an unseen scale. The balance of karma is shifting.\n\nWill you walk the
     path of virtue, or embrace the darkness?\n\n<b>Choose Difficulty:</b>"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2615,7 +2615,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &493121235
@@ -2760,7 +2760,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Explosion_001.mp3 by cydon
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2824,7 +2824,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &556299266
@@ -3167,22 +3167,25 @@ MonoBehaviour:
 
     <b>Shoot</b>: Arrow Keys / Right Stick
 
-    <b>Use
-    Potion</b>: Q / Right Trigger
+    <b>Focus</b>:
+    Left Shift / Left Trigger
 
-    <b>Pick Cards</b>: Mouse
+    <b>Use Potion</b>: Q / Right Trigger
 
-    <b>Progress
-    Dialogue</b>: RETURN
+    <b>Pick
+    Cards</b>: Mouse
+
+    <b>Progress Dialogue</b>: RETURN
 
 
-    Your goal is to descend through five floors and find
-    Marisa. Along the way, you''ll collect items that tip the Karmic Scale towards
-    Good or Evil. If it tips too far potentially unwanted consequences may occur,
-    also affecting the ending of the game, so be careful when choosing.'
+    Your goal is to
+    descend through five floors and find Marisa. Along the way, you''ll collect items
+    that tip the Karmic Scale towards Good or Evil. If it tips too far potentially
+    unwanted consequences may occur, also affecting the ending of the game, so be
+    careful when choosing.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3315,7 +3318,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Lore :]
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3379,7 +3382,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &674799040
@@ -3740,8 +3743,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: How 2 Play
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3949,7 +3952,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: NeXsard - Not dead YET!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4013,7 +4016,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &911709090
@@ -4083,7 +4086,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Density & Time - MAZE
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4147,7 +4150,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &958065769
@@ -4217,7 +4220,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: SFX used (all are from freesound.org)
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4281,7 +4284,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &982288391
@@ -4485,8 +4488,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Back
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4734,7 +4737,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Back
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4798,7 +4801,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1171804988
@@ -5040,8 +5043,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: How 2 Play
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5174,8 +5177,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: The Karmic Scale
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5632,7 +5635,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Heart collect/Healing (Retro) by ReincarnatedEchoes
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5696,7 +5699,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1376383729
@@ -5900,7 +5903,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Credits
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5964,7 +5967,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1418511915
@@ -6034,8 +6037,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6243,7 +6246,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: This game was made by Tim_M.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6307,7 +6310,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1452508025
@@ -6511,7 +6514,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Eric Skiff - Underclocked
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6575,7 +6578,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1523359384
@@ -6756,7 +6759,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Monplaisir - Soundtrack
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6820,7 +6823,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1598618780
@@ -6965,7 +6968,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Kubbi - Digestive biscuit
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7029,7 +7032,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1610235458
@@ -7249,7 +7252,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Wood Smash by DiscordantScraps
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7313,7 +7316,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1717595773
@@ -7383,7 +7386,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Easier
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7447,7 +7450,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1784979979
@@ -7517,8 +7520,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Volume
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7787,7 +7790,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pix - Melancholic Walk
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7851,7 +7854,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2020099757
@@ -7921,7 +7924,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Get Item 1 8 Bit.wav by Mrthenoronha
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7985,7 +7988,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2025336986

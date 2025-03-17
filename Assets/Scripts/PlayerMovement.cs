@@ -46,12 +46,12 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        var speed = GameManager.Instance.GetSpeed;
+        var speed =  GameManager.Instance.GetSpeed * (CustomInput.HoldingFocus ? 0.5f : 1f);
         var targetSpeed = speed * CustomInput.MoveInput.normalized;
 
         if (LockControls) targetSpeed = Vector2.zero;
 
-        CurrentSpeed = Vector2.MoveTowards(CurrentSpeed, targetSpeed, Time.fixedDeltaTime * Acceleration);
+        CurrentSpeed = Vector2.MoveTowards(CurrentSpeed, targetSpeed, Time.fixedDeltaTime * (Acceleration + speed));
         _rb2d.velocity = CurrentSpeed;
 
         UpdateDirections();

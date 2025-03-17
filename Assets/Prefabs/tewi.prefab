@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 154674982a404434a8723a932f03d152, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartHealth: 160
+  StartHealth: 150
   DeathSFX: 15
   HurtSFX: 5
   HitParticles: {fileID: 1838743004656762456, guid: 59c49aeb63cd64ed09b4a85de45fbbb0, type: 3}

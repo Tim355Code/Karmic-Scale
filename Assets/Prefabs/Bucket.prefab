@@ -156,7 +156,7 @@ MonoBehaviour:
     - IsConsumable: 1
       Chance: 13
       Prefab: {fileID: 2312575798138062000, guid: 5be371cb82017435fb6bd6b058193a0d, type: 3}
-  Health: 6
+  Health: 5
   DeathParticles: {fileID: 7959447549918804121, guid: 0e85ab672551f4a658218c7db91bef97, type: 3}
   DestroySound: 25
 --- !u!61 &4662147820210509052

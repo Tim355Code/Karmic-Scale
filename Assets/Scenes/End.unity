@@ -677,8 +677,8 @@ MonoBehaviour:
     Got
     hit 7 times.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -811,8 +811,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: You win!! :O
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1020,8 +1020,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Yay
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
-  m_sharedMaterial: {fileID: -7485646419120551744, guid: 4656cf125070d4f00928aea9c4b1b8fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
+  m_sharedMaterial: {fileID: 1421951813646122406, guid: d424afb12b16746e0be4cd32961ca5ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -16,7 +16,7 @@ MonoBehaviour:
   Quality: 1
   Pool: 2
   Name: Kappa Goggles
-  Description: Shot speed and range up, tiny fire rate down.
+  Description: Shot speed and range up.
   Announcement: Enhanced vision, questionable comfort.
   CardSprite: {fileID: 1536104808, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
   CardSpriteSize: {x: 156.9266, y: 66.6945}
@@ -27,9 +27,6 @@ MonoBehaviour:
   - Stat: 4
     MultiplyMode: 0
     Value: 0.7
-  - Stat: 2
-    MultiplyMode: 0
-    Value: -0.1
   HealthModifier: 0
   Projectile: 0
   Modifiers: 

@@ -45,7 +45,7 @@ public class WeirdEnemy : Enemy
         else
             yield return new WaitForSeconds(StopTime);
 
-        if (toPlayer.magnitude < PlayerDistance) Direction = toPlayer.normalized;
+        if (!CurrentEffects.ContainsKey(StatusEffect.FEAR) && toPlayer.magnitude < PlayerDistance) Direction = toPlayer.normalized;
         else Direction = Random.insideUnitCircle;
 
         yield return new WaitForSeconds(Random.Range(MovementTime.x, MovementTime.y));

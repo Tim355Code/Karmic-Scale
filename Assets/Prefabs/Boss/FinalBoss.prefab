@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7fb836e88708406db8a77564cf2b129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StartHealth: 200
+  StartHealth: 190
   DeathSFX: 4
   HurtSFX: 5
   HitParticles: {fileID: 1838743004656762456, guid: 59c49aeb63cd64ed09b4a85de45fbbb0, type: 3}
@@ -278,7 +278,7 @@ MonoBehaviour:
   WaitTimeRange: {x: 0.5, y: 1.5}
   MaxSpeed: 7
   Acceleration: 4
-  ScalingHealthFactor: 50
+  ScalingHealthFactor: 66
   Attack1SpawnCount: 21
   Attack1RepeatCount: 8
   Attack1FireRate: 0.57

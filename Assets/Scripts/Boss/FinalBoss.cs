@@ -93,7 +93,7 @@ public class FinalBoss : Enemy
         _rb2d = GetComponent<Rigidbody2D>();
 
         // Shitty boss armor calculation
-        StartHealth += ScalingHealthFactor * GameManager.Instance.GetDamage * 1/(GameManager.Instance.GetFireRate);
+        StartHealth += ScalingHealthFactor * GameManager.Instance.GetDamage * 0.5f / GameManager.Instance.GetFireRate;
 
         GameUI.Instance.SetBossBarValue(1f);
         base.Start();

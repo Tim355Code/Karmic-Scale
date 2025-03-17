@@ -171,7 +171,7 @@ MonoBehaviour:
   Mask:
     serializedVersion: 2
     m_Bits: 4294967295
-  Damage: 25
+  Damage: 30
 --- !u!199 &6985864278911844080
 ParticleSystemRenderer:
   serializedVersion: 6

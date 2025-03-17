@@ -23,7 +23,7 @@ MonoBehaviour:
   StatModifiers:
   - Stat: 0
     MultiplyMode: 0
-    Value: -0.7
+    Value: -0.5
   HealthModifier: 1
   Projectile: 0
   Modifiers: 

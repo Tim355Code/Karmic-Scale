@@ -31,7 +31,7 @@ public abstract class Enemy : MonoBehaviour, IDamageable
         CurrentEffects = new Dictionary<StatusEffect, float>();
         StartHealth += (GameMaster.Singleton.CurrentFloor / 3f);
         if (GameManager.Instance.Evil < 0)
-            StartHealth *= (1 + 0.1f * -GameManager.Instance.Evil);
+            StartHealth *= (1 + 0.05f * -GameManager.Instance.Evil);
 
         Health = StartHealth;
     }

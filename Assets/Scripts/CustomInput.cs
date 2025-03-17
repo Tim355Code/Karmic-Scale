@@ -8,6 +8,7 @@ public static class CustomInput
     public static Vector2 m_MoveInput;
     public static Vector2 m_FireInput;
     public static bool UsePress => Map.Default.Use.WasPerformedThisFrame();
+    public static bool HoldingFocus => Map.Default.Focus.IsPressed();
 
     public static bool InvertY = false;
 

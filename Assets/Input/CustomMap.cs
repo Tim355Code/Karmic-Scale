@@ -71,6 +71,15 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Focus"",
+                    ""type"": ""Button"",
+                    ""id"": ""107319b5-41b3-4f05-a5f2-88cc4887105f"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -359,6 +368,28 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
                     ""action"": ""Use"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""0112a32b-b15e-4cc8-96a7-926462f77b31"",
+                    ""path"": ""<Keyboard>/leftShift"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Focus"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c182ecd5-7c19-4aeb-8e8a-a8354bda3ad2"",
+                    ""path"": ""<Gamepad>/leftShoulder"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Focus"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -372,6 +403,7 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
         m_Default_FireHorizontal = m_Default.FindAction("FireHorizontal", throwIfNotFound: true);
         m_Default_FireVertical = m_Default.FindAction("FireVertical", throwIfNotFound: true);
         m_Default_Use = m_Default.FindAction("Use", throwIfNotFound: true);
+        m_Default_Focus = m_Default.FindAction("Focus", throwIfNotFound: true);
     }
 
     ~@CustomMap()
@@ -443,6 +475,7 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
     private readonly InputAction m_Default_FireHorizontal;
     private readonly InputAction m_Default_FireVertical;
     private readonly InputAction m_Default_Use;
+    private readonly InputAction m_Default_Focus;
     public struct DefaultActions
     {
         private @CustomMap m_Wrapper;
@@ -452,6 +485,7 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
         public InputAction @FireHorizontal => m_Wrapper.m_Default_FireHorizontal;
         public InputAction @FireVertical => m_Wrapper.m_Default_FireVertical;
         public InputAction @Use => m_Wrapper.m_Default_Use;
+        public InputAction @Focus => m_Wrapper.m_Default_Focus;
         public InputActionMap Get() { return m_Wrapper.m_Default; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -476,6 +510,9 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
             @Use.started += instance.OnUse;
             @Use.performed += instance.OnUse;
             @Use.canceled += instance.OnUse;
+            @Focus.started += instance.OnFocus;
+            @Focus.performed += instance.OnFocus;
+            @Focus.canceled += instance.OnFocus;
         }
 
         private void UnregisterCallbacks(IDefaultActions instance)
@@ -495,6 +532,9 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
             @Use.started -= instance.OnUse;
             @Use.performed -= instance.OnUse;
             @Use.canceled -= instance.OnUse;
+            @Focus.started -= instance.OnFocus;
+            @Focus.performed -= instance.OnFocus;
+            @Focus.canceled -= instance.OnFocus;
         }
 
         public void RemoveCallbacks(IDefaultActions instance)
@@ -519,5 +559,6 @@ public partial class @CustomMap: IInputActionCollection2, IDisposable
         void OnFireHorizontal(InputAction.CallbackContext context);
         void OnFireVertical(InputAction.CallbackContext context);
         void OnUse(InputAction.CallbackContext context);
+        void OnFocus(InputAction.CallbackContext context);
     }
 }
