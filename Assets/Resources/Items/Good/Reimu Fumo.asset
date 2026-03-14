@@ -16,11 +16,8 @@ MonoBehaviour:
   Quality: 0
   Pool: 1
   Name: Reimu Fumo
-  Description: 'Just orbits you, providing moral support (and blocking bullets).
-
-    Just
-    chilling.'
-  Announcement: '"..."'
+  Description: Just orbits you, providing moral support (and blocking bullets).
+  Announcement: Fumo.
   CardSprite: {fileID: -108040775, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
   CardSpriteSize: {x: 121.2746, y: 166.4}
   StatModifiers: []

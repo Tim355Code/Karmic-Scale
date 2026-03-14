@@ -151,7 +151,7 @@ MonoBehaviour:
       Chance: 40
       Prefab: {fileID: 4901124920488537309, guid: d09644dc7f93c444c86e04ac7684ee04, type: 3}
     - IsConsumable: 0
-      Chance: 25
+      Chance: 30
       Prefab: {fileID: 9221579099908189163, guid: aa8233d0f9827489c8571aecfd498351, type: 3}
     - IsConsumable: 1
       Chance: 13

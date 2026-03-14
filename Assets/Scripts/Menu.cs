@@ -60,4 +60,9 @@ public class Menu : MonoBehaviour
     {
         CustomInput.InvertY = state;
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }

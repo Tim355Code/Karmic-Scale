@@ -106,6 +106,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -257,43 +270,85 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: reimu_7
+      name: evil_reimu_0
       rect:
         serializedVersion: 2
-        x: 141
-        y: 98
-        width: 25
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 9
+        y: 40
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.9375}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf09e3cd4d83f4144a728a5a862ce4cb
-      internalID: -1205786969
+      spriteID: 140ba0c4fe33a41e9824539f31fa6a6e
+      internalID: -1529923836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: reimu_8
+      name: evil_reimu_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 80
-        width: 25
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 42
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.59090906, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 825e7a7e2e03945db990cce2685ab513
-      internalID: -552941021
+      spriteID: 074af83cee077442c8f3cb898cf6a861
+      internalID: 685260810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil_reimu_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d5a6ddb8f44f0aa8720c0210a2af0
+      internalID: -805450367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evil_reimu_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5416667, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51c78d042f944d4b6517b3d4e0070f
+      internalID: 478214190
       vertices: []
       indices: 
       edges: []
@@ -309,6 +364,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      evil_reimu_0: -1529923836
+      evil_reimu_1: 685260810
+      evil_reimu_2: -805450367
+      evil_reimu_3: 478214190
       reimu_0: 518362485
       reimu_1: -2079100297
       reimu_2: -76021765

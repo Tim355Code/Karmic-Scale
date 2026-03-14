@@ -2129,8 +2129,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 22
-  m_Sprite: {fileID: -1312119643, guid: 1325c149078544ee790c5ed4060853ed, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.5882353}
+  m_Sprite: {fileID: 500828787, guid: 3ae74d48374c547b6bb11ab72d9c801a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2831,7 +2831,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.85, y: 0.8}
+  m_Size: {x: 0.85, y: 0.75}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4323,8 +4323,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cdd54379af2947898c69d4c4d1cc9f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _rb2d: {fileID: 0}
   BulletPrefab: {fileID: 5295477200327935946, guid: 6f73fd82dd1d74c30a9d7d36f9a0536d, type: 3}
-  Acceleration: 57
+  Acceleration: 64
   ForcingDirection: 0
   ForcedDirection: 0
 --- !u!70 &1403678124
@@ -4399,9 +4400,9 @@ MonoBehaviour:
   Halo: {fileID: 1070078252}
   EvilHalo: {fileID: 1837074554}
   EvilTransformationParticles: {fileID: 3808181157206866390, guid: da5c310a84f144ab29301ec16d479546, type: 3}
-  EvilAnimator: {fileID: 9100000, guid: 6fab95222bdc1419c9329f7d74a1c7c9, type: 2}
+  EvilAnimator: {fileID: 9100000, guid: 4942d70d7a5a344b9830b54a631afc25, type: 2}
   GoodTransformationParticles: {fileID: 725218597980489246, guid: 593e35fd6629e4a4b863ef069a8d55f4, type: 3}
-  GoodAnimator: {fileID: 9100000, guid: bf25928319e3d46fbad1af655693b0d9, type: 2}
+  GoodAnimator: {fileID: 9100000, guid: bb8e8a52dddcf4b1da257e984a745bf7, type: 2}
   TransformedMode: 0
 --- !u!95 &1403678126
 Animator:
@@ -5975,7 +5976,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5282945765768275498, guid: 6be3fbc21ebe444eda1d2309a041eee2, type: 3}
       propertyPath: StartFloor
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7588103636434721982, guid: 6be3fbc21ebe444eda1d2309a041eee2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6213,7 +6214,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6308543149739078550, guid: fbb8fdcc55c84428eb89a366b9b602e9, type: 3}
       propertyPath: m_text
-      value: 0/10
+      value: 357
       objectReference: {fileID: 0}
     - target: {fileID: 6308543149739078550, guid: fbb8fdcc55c84428eb89a366b9b602e9, type: 3}
       propertyPath: m_fontAsset

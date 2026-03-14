@@ -6,7 +6,8 @@ public class PlayerMovement : MonoBehaviour
     public static PlayerMovement Instance;
     public static bool LockControls;
 
-    private Rigidbody2D _rb2d;
+    [HideInInspector]
+    public Rigidbody2D _rb2d;
     private PlayerShooting _shooting;
 
     [Header("References")]
@@ -86,19 +87,22 @@ public class PlayerMovement : MonoBehaviour
         {
             WalkingDirection = Direction.Down;
         }
-        else if (Mathf.Abs(CurrentSpeed.x) > Mathf.Abs(CurrentSpeed.y))
-        {
-            if (Mathf.Sign(CurrentSpeed.x) < 0)
-                WalkingDirection = Direction.Left;
-            else
-                WalkingDirection = Direction.Right;
-        }
         else
         {
-            if (Mathf.Sign(CurrentSpeed.y) < 0)
-                WalkingDirection = Direction.Down;
+            if (Mathf.Abs(CurrentSpeed.x) > Mathf.Abs(CurrentSpeed.y))
+            {
+                if (Mathf.Sign(CurrentSpeed.x) < 0)
+                    WalkingDirection = Direction.Left;
+                else
+                    WalkingDirection = Direction.Right;
+            }
             else
-                WalkingDirection = Direction.Up;
+            {
+                if (Mathf.Sign(CurrentSpeed.y) < 0)
+                    WalkingDirection = Direction.Down;
+                else
+                    WalkingDirection = Direction.Up;
+            }
         }
 
         // Set shooting direction
@@ -121,6 +125,10 @@ public class PlayerMovement : MonoBehaviour
         }
         else
             FacingDirection = WalkingDirection;
+
+
+        if (FacingDirection.IsOpposite(WalkingDirection))
+            WalkingDirection = WalkingDirection.Flip();
 
         if (ForcingDirection)
         {

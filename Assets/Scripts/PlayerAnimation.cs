@@ -81,6 +81,8 @@ public class PlayerAnimation : MonoBehaviour
         _head.flipX = _movement.FacingDirection == Direction.Right;
 
         _anim.SetFloat("Direction", (float)_movement.WalkingDirection);
+        _anim.SetBool("Walking", _movement._rb2d.velocity.magnitude > 0.05f);
+        _anim.SetFloat("Speed", _movement._rb2d.velocity.magnitude / 7.35f);
     }
 
     // Changes reimu to look evil or good for the final boss

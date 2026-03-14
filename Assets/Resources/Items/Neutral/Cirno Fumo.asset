@@ -17,7 +17,7 @@ MonoBehaviour:
   Pool: 2
   Name: Cirno Fumo
   Description: A silly orbiting friend who slows down when you fire.
-  Announcement: '"9"'
+  Announcement: The strongest 9
   CardSprite: {fileID: -2118547812, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
   CardSpriteSize: {x: 114.8419, y: 178.7858}
   StatModifiers: []

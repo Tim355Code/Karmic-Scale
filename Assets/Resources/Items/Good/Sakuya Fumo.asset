@@ -17,7 +17,7 @@ MonoBehaviour:
   Pool: 1
   Name: Sakuya Fumo
   Description: Time slows down slightly whenever an enemy bullet gets close.
-  Announcement: '"Everything moves at my pace."'
+  Announcement: Fumo, fumofumo?
   CardSprite: {fileID: -380921030, guid: 34f24bd0971534c0f95b3455af703ec7, type: 3}
   CardSpriteSize: {x: 99.4917, y: 157.6}
   StatModifiers: []

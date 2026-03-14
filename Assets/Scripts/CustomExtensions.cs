@@ -3,6 +3,33 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
+public static class DirectionExtensions
+{
+    public static bool IsOpposite(this Direction a, Direction b)
+    {
+        return a switch
+        {
+            Direction.Down => b == Direction.Up,
+            Direction.Left => b == Direction.Right,
+            Direction.Right => b == Direction.Left,
+            Direction.Up => b == Direction.Down,
+            _ => throw new NotImplementedException()
+        };
+    }
+
+    public static Direction Flip(this Direction dir)
+    {
+        return dir switch
+        {
+            Direction.Down => Direction.Up,
+            Direction.Left => Direction.Right,
+            Direction.Right => Direction.Left,
+            Direction.Up => Direction.Down,
+            _ => throw new NotImplementedException()
+        };
+    }
+}
+
 // Utility class imported from a different project, most stuff is unused
 public static class VectorExtensions
 {
