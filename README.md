@@ -16,3 +16,9 @@ Sound effects and music are from free-to-use sources.
 ## Play
 You can play the game here:  
 https://tim-m.itch.io/the-karmic-scale
+
+## Screenshots
+
+![Card choosing screenshot](screenshots/gameplay1.png)
+
+![Enemy fighting screenshot](screenshots/gameplay2.png)
