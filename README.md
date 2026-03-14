@@ -6,7 +6,7 @@
 This project was created during a game jam. The repository contains the full Unity project used for development.
 
 ## My Contributions
-This was a solo project — I created all programming and artwork.  
+This was a solo project - I created all programming and artwork.  
 Sound effects and music are from free-to-use sources.
 
 ## Tech
@@ -18,7 +18,5 @@ You can play the game here:
 https://tim-m.itch.io/the-karmic-scale
 
 ## Screenshots
-
 ![Card choosing screenshot](screenshots/gameplay1.png)
-
 ![Enemy fighting screenshot](screenshots/gameplay2.png)
