@@ -5,8 +5,10 @@
 ## About
 This project was created during a game jam. The repository contains the full Unity project used for development.
 
-## My Contributions
-This was a solo project - I created all programming and artwork.  
+## Contributions
+This was a solo project - I created all programming and artwork.
+AngryCubicle created the death animation in TouhouFest version and beyond.
+
 Sound effects and music are from free-to-use sources.
 
 ## Tech
